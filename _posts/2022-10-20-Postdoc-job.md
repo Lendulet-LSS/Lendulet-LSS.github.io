@@ -6,7 +6,7 @@ categories:
 tags:
   - Jobs
 ---
-![collab](/assets/images/lendulet_postdoc.png)
+![collab](/assets/images/Lendulet_LSS_postdoc.png)
 
 The [Konkoly Observatory](https://konkoly.hu/index.shtml) of the [Research Centre for Astronomy and Earth Sciences](https://csfk.org/en/) (Budapest, Hungary) invites applications for a **postdoctoral position in observational cosmology**, as part of the newly formed _Lendület_ large-scale structure research group led by _Dr. András Kovács_. The group’s main objectives include cosmic web analyses of state-of-the-art galaxy and quasar survey data sets, and their cross-correlations with cosmic microwave background (CMB) anisotropy maps. Candidates with a PhD in astronomy, astrophysics, or physics, and experience in either of these fields are encouraged to apply. The appointment is **available for 2 years from February 2023** (later starting dates are possible), with the possibility of a 2 year extension in the context of the _Lendület_ funding, or from annually advertised Hungarian postdoctoral fellowship calls.
 
