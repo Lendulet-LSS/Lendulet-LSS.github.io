@@ -14,4 +14,4 @@ See further details at the web page of the Eötvös Loránd Research Network ([E
 
 ![collab](/assets/images/mta_akovacs.png)
 
-The main goal of this 5-year project is to extend the mapping of the largest _cosmic voids_ and _superclusters_ to un-probed, key redshift ranges (z>1). Then, the Lendület-LSS team will cross-correlate the positions of these super-structures with Cosmic Microwave Backgound (CMB) anisotropies to learn about the cosmic dark sector, and about the growth of density fluctuations in such extreme corners of the Universe.
+The main goal of this 5-year project is to extend the mapping of the largest _cosmic voids_ and _superclusters_ to un-probed, key redshift ranges (z>1). Then, the _Lendület-LSS_ team will cross-correlate the positions of these super-structures with Cosmic Microwave Backgound (CMB) anisotropies to learn about the cosmic dark sector, and about the growth of density fluctuations in such extreme corners of the Universe.
