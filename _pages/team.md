@@ -7,19 +7,19 @@ something
 ### Postdoctoral fellow (open position)
 something
 # PhD students
-### Nestor Arsenov (part-time)
+### Nestor Arsenov (part-time, IA Sofia)
 something
-### Mar Pérez Sar (part-time)
+### Mar Pérez Sar (part-time, IAC Tenerife)
 something
 
 ### PhD Student (open position, full-time)
 something
 
 # Master students
-### Gisela Camacho
+### Gisela Camacho (part-time, IAC Tenerife)
 something
 
-### Erik Gebhard
+### Erik Gebhard (ELTE Budapest)
 something
 
 ## Main collaborators
