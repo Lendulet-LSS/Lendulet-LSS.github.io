@@ -2,7 +2,6 @@
 permalink: /team/
 title: "Staff members and postdocs"
 ---
-
 ### Dr. András Kovács (PI)
 something
 ### Postdoctoral fellow (open position)
