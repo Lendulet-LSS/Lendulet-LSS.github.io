@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Lendulet-LSS"
-  avatar : "/assets/images/svabhegyi.jpg"
+  avatar : "/assets/images/svabhegyi.png"
   bio    : "Home page of the Lendület Large-Scale Structure (LSS) research group at Konkoly Observatory"
   links:
     - label: "Website"
