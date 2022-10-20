@@ -72,9 +72,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lendulet-LSS/"
 
-header:
-  image: /assets/images/header_image.png
-
 footer:
   links:
     - label: "Twitter"
@@ -96,8 +93,6 @@ defaults:
       comments: true
       share: true
       related: true
-    header:
-      teaser: "/assets/images/header_image.png"
   # _pages
   - scope:
       path: "_pages"
