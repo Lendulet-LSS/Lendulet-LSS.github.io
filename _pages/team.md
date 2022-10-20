@@ -1,5 +1,6 @@
 ---
 permalink: /team/
+title: Team
 ---
 # Staff members and postdocs
 ### Dr. András Kovács (PI)
