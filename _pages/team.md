@@ -22,6 +22,7 @@ Starting from September 2023, the student will work on statistical analyses of Q
 ### Erik Gebhard (full-time)
 In his master thesis project, Erik explores the detection significance of CMB cross-correlation signals using a QSO catalog from combined Pan-STARRS+WISE data. A key challenge is the presence of photometric redshift errors that limit our ability to robustly identify voids, but the large survey area might provide acceptable signal-to-noise, paving the way for more precise measurements with e.g. J-PAS narrow band QSO data.
 
+# Interns
 ### Gisela Camacho (part-time)
 In the context of forecast analyses of _2D Void x CMB_ cross-correlation signals, Gisela's work contributes to the _Lendület-LSS_ group's efforts to exploit the rich QSO catalogs from upcoming J-PAS survey, and thus extend the range of CMB lensing measurements to higher redshifts (z>1). She is also involved in analyses of DES LRG data sets to measure cross-correlations with Planck tSZ maps.
 
