@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lendulet-LSS"
   avatar : "/assets/images/svabhegyi.png"
-  bio    : "Home page of the Lendület Large-Scale Structure (LSS) research group at Konkoly Observatory"
+  bio    : "Home page of the Large-Scale Structure (LSS) research group at Konkoly Observatory, funded by the Lendület programme of the Hungarian Academy of Sciences"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/koaoact/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/koaoact/"
+      url: "https://github.com/Lendulet-LSS/"
 
 footer:
   links:
@@ -79,7 +79,7 @@ footer:
       url: "https://twitter.com/koaoact/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/koaoact/"
+      url: "https://github.com/Lendulet-LSS/"
 
 defaults:
   # _posts
