@@ -3,13 +3,14 @@ permalink: /research/
 title: "Research"
 ---
 
-### Keywords
+## Keywords
 
 Cosmology, Dark Energy, Cosmic Microwave Background (CMB), Cosmic voids, Superclusters, Large-Scale Structure (LSS)
 
-### International collaborations
+## International collaborations
 
-LSST-DESC at the Rubin Observatory, Euclid Consortium, WEAVE-QSO survey, Dark Energy Survey (DES), J-PAS project
+Members of the _Lendület-LSS_ group may participate in various cosmology project in multiple ongoing and upcoming galaxy/QSO surveys, such as LSST-DESC at the Rubin Observatory, Euclid Consortium, WEAVE-QSO survey, Dark Energy Survey (DES), and the J-PAS project.
+
 ![surveys](/assets/images/surveys5.png)
 
 ## Research field
@@ -24,7 +25,7 @@ Related results in observational cosmology have generated considerable media att
 
 ## Planned projects
 
-The Lendület-LSS group will focus on mapping the largest structures in the cosmic web, _cosmic voids_ and _superclusters_, that have been widely used for CMB-LSS cross-correlation studies. In particular, the team at Konkoly will extend the mapping of voids and superclusters to un-probed, key redshift ranges (z>1) and thus study the growth rate of structure in extreme cosmic environments.
+The _Lendület-LSS_ group will focus on mapping the largest structures in the cosmic web, _cosmic voids_ and _superclusters_, that have been widely used for CMB-LSS cross-correlation studies. In particular, the team at Konkoly will extend the mapping of voids and superclusters to un-probed, key redshift ranges (z>1) and thus study the growth rate of structure in extreme cosmic environments.
 
 ![surveys](/assets/images/surveys_z.png)
 
