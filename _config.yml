@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Lendulet-LSS"
+  name   : "Lendület-LSS"
   avatar : "/assets/images/svabhegyi.png"
   bio    : "Large-Scale Structure (LSS) group at Konkoly Observatory, funded by the Hungarian _Lendület_ program."
   links:
