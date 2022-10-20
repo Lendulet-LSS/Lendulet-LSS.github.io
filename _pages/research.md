@@ -10,7 +10,7 @@ Cosmology, Dark Energy, Cosmic Microwave Background (CMB), Cosmic voids, Supercl
 ### International collaborations
 
 LSST-DESC at the Rubin Observatory, Euclid Consortium, WEAVE-QSO survey, Dark Energy Survey (DES), J-PAS project
-![surveys](/assets/images/surveys.png)
+![surveys](/assets/images/surveys5.png)
 
 
 ## Research field
