@@ -1,6 +1,6 @@
 ---
 title: "Job vacancy: postdoctoral position"
-date: 2022-10-20T12:00:00-00:00
+
 categories:
   - blog
 tags:
