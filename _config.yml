@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lendulet-LSS"
   avatar : "/assets/images/svabhegyi.png"
-  bio    : "Large-Scale Structure (LSS) group at Konkoly Observatory, funded by the Lendület program"
+  bio    : "Large-Scale Structure group at Konkoly Observatory, funded by the Hungarian excellense Lendület program"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
