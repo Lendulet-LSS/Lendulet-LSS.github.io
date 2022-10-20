@@ -12,7 +12,6 @@ Cosmology, Dark Energy, Cosmic Microwave Background (CMB), Cosmic voids, Supercl
 LSST-DESC at the Rubin Observatory, Euclid Consortium, WEAVE-QSO survey, Dark Energy Survey (DES), J-PAS project
 ![surveys](/assets/images/surveys5.png)
 
-
 ## Research field
 
 The standard ΛCDM (Lambda-Cold Dark Matter) cosmological model has emerged as the consensus model of Einstein's generally relativistic universe. It has shown truly remarkable explanatory power over a variety of cosmic scales and epochs, and it narrates a reassuring story of a model universe currently filled mostly with dark matter and dark energy. However, this explanation is not _completely_ satisfactory because the actual nature of the dark sector remains a key puzzle.
@@ -26,4 +25,6 @@ Related results in observational cosmology have generated considerable media att
 ## Planned projects
 
 The Lendület-LSS group will focus on mapping the largest structures in the cosmic web, _cosmic voids_ and _superclusters_, that have been widely used for CMB-LSS cross-correlation studies. In particular, the team at Konkoly will extend the mapping of voids and superclusters to un-probed, key redshift ranges (z>1) and thus study the growth rate of structure in extreme cosmic environments.
+
+![surveys](/assets/images/surveys_z.png)
 
