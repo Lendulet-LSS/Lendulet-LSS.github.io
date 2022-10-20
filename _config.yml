@@ -73,7 +73,7 @@ author:
       url: "https://github.com/Lendulet-LSS/"
 
 header:
-  teaser: "/assets/images/svabhegyi.png"
+  image: /assets/images/svabhegyi.png
 
 footer:
   links:
