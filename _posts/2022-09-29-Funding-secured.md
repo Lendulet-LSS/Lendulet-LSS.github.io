@@ -1,9 +1,9 @@
 ---
 title: "Lendület funding"
 categories:
-  - Jobs
+  - Funding
 tags:
-  - Jobs
+  - Funding
 ---
 
 In the context of the _Lendület_ excellence program, the Hungarian Academy of Sciences ([HAS](https://mta.hu/english)) selected the following project for funding: _From quasars to cosmic voids: new probes of dark energy with extreme cosmic structures_. See further details at the web page of the Eötvös Loránd Research Network ([ELKH](https://elkh.org/en/news/eight-new-elkh-research-groups-win-grant-to-start-work-as-part-of-the-2022-mta-lendulet-momentum-program/)).
