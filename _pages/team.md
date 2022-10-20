@@ -3,17 +3,13 @@ permalink: /team/
 title: "Team"
 ---
 # Staff members and postdocs
-
 ### Dr. András Kovács (PI)
 something
-
 ### Postdoctoral fellow (open position)
 something
-
 # PhD students
 ### Nestor Arsenov (part-time)
 something
-
 ### Mar Pérez Sar (part-time)
 something
 
