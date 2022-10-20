@@ -9,7 +9,7 @@ Cosmology, Dark Energy, Cosmic Microwave Background (CMB), Cosmic voids, Supercl
 
 ## International collaborations
 
-Members of the _Lendület-LSS_ group may participate in various cosmology project in multiple ongoing and upcoming galaxy/QSO surveys, such as LSST-DESC at the Rubin Observatory, Euclid Consortium, WEAVE-QSO survey, Dark Energy Survey (DES), and the J-PAS project.
+Members of the _Lendület-LSS_ group may participate in various cosmology projects in multiple ongoing and upcoming galaxy/QSO surveys, such as LSST-DESC at the Vera C. Rubin Observatory, the Euclid Consortium, the WEAVE-QSO survey, the Dark Energy Survey (DES), and the J-PAS project.
 
 ![surveys](/assets/images/surveys5.png)
 
