@@ -30,8 +30,8 @@ something
 ## Main collaborators
 **István Szapudi** (Institute for Astronomy, University of Hawaii)
 
-**Carlos Hernández-Monteagudo** (Instituto de Astrofísica de Canarias)
-
 **István Csabai** (Eötvös Loránd University)
+
+**Carlos Hernández-Monteagudo** (Instituto de Astrofísica de Canarias)
 
 **Pauline Vielzeuf** (Centre for Particle Physics of Marseilles)
