@@ -9,7 +9,7 @@ tags:
 
 The [Konkoly Observatory](https://konkoly.hu/index.shtml) of the [Research Centre for Astronomy and Earth Sciences](https://csfk.org/en/) (Budapest, Hungary) invites applications for two **PhD student positions in observational cosmology**, as part of the newly formed _Lendület_ large-scale structure research group led by _Dr. András Kovács_. The group’s main objectives include cosmic web analyses of state-of-the-art galaxy and quasar survey data sets, and their cross-correlations with cosmic microwave background (CMB) anisotropy maps. 
 
-Candidates with a masters degree in astronomy, astrophysics, or physics, and experience in either of these fields are encouraged to apply. The appointments are **available for 4 years from September 2023**. The place of the doctoral studies will be the Eötvös Loránd University (ELTE) in Budapest where the applications are processed, while the research itself will be carried out at Konkoly Observatory. The projects will be co-supervised by Dr. István Csabai (ELTE) and we expect to involve the student in the international network of our collaborating research groups.
+Candidates with a masters degree in astronomy, astrophysics, or physics, and experience in either of these fields are encouraged to apply. The appointments are **available for 4 years from September 2023**. The place of the doctoral studies will be the Eötvös Loránd University (ELTE) in Budapest where the applications are processed, while the research itself will be carried out at Konkoly Observatory. The projects will be co-supervised by Dr. István Csabai (ELTE) and we expect to involve the students in the international network of our collaborating research groups.
 
 ![collab](/assets/images/konkoly_phd_cosmo.png)
 
