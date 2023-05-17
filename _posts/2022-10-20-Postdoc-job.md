@@ -1,5 +1,5 @@
 ---
-title: "Job vacancy: postdoctoral position"
+title: "Job vacancy: two PhD student positions"
 
 categories:
   - Jobs
